@@ -1,2 +1,2 @@
-# Nh-p-m-n-an-to-n-b-o-m-t
+# NhapMonAnToanBaoMatThongTin
 Đây là file code bài tập lớn
